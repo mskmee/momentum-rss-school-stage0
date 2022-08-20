@@ -1,0 +1,405 @@
+{"en": [
+      {
+        "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+        "author": "Thomas Edison"
+      },
+      {
+        "text": "You can observe a lot just by watching.",
+        "author": "Yogi Berra"
+      },
+      {
+        "text": "A house divided against itself cannot stand.",
+        "author": "Abraham Lincoln"
+      },
+      {
+        "text": "Difficulties increase the nearer we get to the goal.",
+        "author": "Johann Wolfgang von Goethe"
+      },
+      {
+        "text": "Fate is in your hands and no one elses",
+        "author": "Byron Pulsifer"
+      },
+      {
+        "text": "Be the chief but never the lord.",
+        "author": "Lao Tzu"
+      },
+      {
+        "text": "Nothing happens unless first we dream.",
+        "author": "Carl Sandburg"
+      },
+      {
+        "text": "Well begun is half done.",
+        "author": "Aristotle"
+      },
+      {
+        "text": "Life is a learning experience, only if you learn.",
+        "author": "Yogi Berra"
+      },
+      {
+        "text": "Self-complacency is fatal to progress.",
+        "author": "Margaret Sangster"
+      },
+      {
+        "text": "Peace comes from within. Do not seek it without.",
+        "author": "Buddha"
+      },
+      {
+        "text": "What you give is what you get.",
+        "author": "Byron Pulsifer"
+      },
+      {
+        "text": "We can only learn to love by loving.",
+        "author": "Iris Murdoch"
+      },
+      {
+        "text": "Life is change. Growth is optional. Choose wisely.",
+        "author": "Karen Clark"
+      },
+      {
+        "text": "You'll see it when you believe it.",
+        "author": "Wayne Dyer"
+      },
+      {
+        "text": "Today is the tomorrow we worried about yesterday.",
+        "author": null
+      },
+      {
+        "text": "It's easier to see the mistakes on someone else's paper.",
+        "author": null
+      },
+      {
+        "text": "Every man dies. Not every man really lives.",
+        "author": null
+      },
+      {
+        "text": "To lead people walk behind them.",
+        "author": "Lao Tzu"
+      },
+      {
+        "text": "Having nothing, nothing can he lose.",
+        "author": "William Shakespeare"
+      },
+      {
+        "text": "Trouble is only opportunity in work clothes.",
+        "author": "Henry J. Kaiser"
+      },
+      {
+        "text": "A rolling stone gathers no moss.",
+        "author": "Publilius Syrus"
+      },
+      {
+        "text": "Ideas are the beginning points of all fortunes.",
+        "author": "Napoleon Hill"
+      },
+      {
+        "text": "Everything in life is luck.",
+        "author": "Donald Trump"
+      },
+      {
+        "text": "Doing nothing is better than being busy doing nothing.",
+        "author": "Lao Tzu"
+      },
+      {
+        "text": "Trust yourself. You know more than you think you do.",
+        "author": "Benjamin Spock"
+      },
+      {
+        "text": "Study the past, if you would divine the future.",
+        "author": "Confucius"
+      },
+      {
+        "text": "The day is already blessed, find peace within it.",
+        "author": null
+      },
+      {
+        "text": "From error to error one discovers the entire truth.",
+        "author": "Sigmund Freud"
+      },
+      {
+        "text": "Well done is better than well said.",
+        "author": "Benjamin Franklin"
+      },
+      {
+        "text": "Bite off more than you can chew, then chew it.",
+        "author": "Ella Williams"
+      },
+      {
+        "text": "Work out your own salvation. Do not depend on others.",
+        "author": "Buddha"
+      },
+      {
+        "text": "One today is worth two tomorrows.",
+        "author": "Benjamin Franklin"
+      }
+    ]
+  ,
+  "ua": [
+    {
+        "text": "Геній - це один відсоток натхнення і дев'яносто дев'ять відсотків поту.",
+        "author": "Томас Эдисон"
+      },
+      {
+        "text": "Ти можеш пабачити багато, просто спостерігаючи.",
+        "author": "Йоги Берра"
+      },
+      {
+        "text": "Дім, розділений сам у собі, не встоїть.",
+        "author": "Авраам Лінкольн"
+      },
+      {
+        "text": "Чим ближче ми до мети, тим більше труднощів.",
+        "author": "Йоганн Вольфганг фон Гете"
+      },
+      {
+        "text": "Доля в ваших руках і ні в кого більше.",
+        "author": "Байрон Пулсіфер"
+      },
+      {
+        "text": "Будь начальником, але ніколи не володарем.",
+        "author": "Лао Тзю"
+      },
+      {
+        "text": "Нічого не станеться, якщо ми спочатку не помріємо.",
+        "author": "Карл Сендбург"
+      },
+      {
+        "text": "Добре розпочате — наполовину зроблено.",
+        "author": "Арістотель"
+      },
+      {
+        "text": "Життя - це навчальний досвід, лише якщо ви будете навчатись.",
+        "author": "Йоги Берра"
+      },
+      {
+        "text": "Самовдоволення згубне для прогресу.",
+        "author": "Маргарет Сенгстер"
+      },
+      {
+        "text": "Мир приходить зсередини. Не шукайте його зовні.",
+        "author": "Будда"
+      },
+      {
+        "text": "Що даєш, те і отримуєш.",
+        "author": "Байрон Пулсіфер"
+      },
+      {
+        "text": "Ми можемо навчитися любити, лише люблячи.",
+        "author": "Айріс Мердок"
+      },
+      {
+        "text": "Життя - це зміни. Зростання необов'язкове. Вибирайте з розумом.",
+        "author": "Карен Кларк"
+      },
+      {
+        "text": "Ви побачите це, коли повірите.",
+        "author": "Вейн Дайер"
+      },
+      {
+        "text": "Сьогодні це завтра, про яке ми хвилювалися вчора.",
+        "author": null
+      },
+      {
+        "text": "Легше побачити помилки на чужому папері.",
+        "author": null
+      },
+      {
+        "text": "Кожна людина вмирає. Не кожна людина справді живе.",
+        "author": null
+      },
+      {
+        "text": "Щоб вести людей, йдіть за ними.",
+        "author": "Лао Тзю"
+      },
+      {
+        "text": "Не маючи нічого, він нічого не може втратити.",
+        "author": "Вільям Шекспір"
+      },
+      {
+        "text": "Біда - це лише можливість у робочому одязі.",
+        "author": "Генрі Дж. Кайзер"
+      },
+      {
+        "text": "Камінь, що котиться, не збирає моху.",
+        "author": "Публілій Сір"
+      },
+      {
+        "text": "Ідеї ​​- це початок усіх успіхів.",
+        "author": "Наполеон Хілл"
+      },
+      {
+        "text": "Все в житті - удача.",
+        "author": "Дональд Трамп"
+      },
+      {
+        "text": "Нічого не робити краще, ніж бути зайнятим бездіяльністю.",
+        "author": "Лао Тзю"
+      },
+      {
+        "text": "Довірся собі. Ти знаєте більше, ніж думаєте.",
+        "author": "Бенджамін Спок"
+      },
+      {
+        "text": "Вивчайте минуле, якщо хочете віщувати майбутнє.",
+        "author": "Конфуций"
+      },
+      {
+        "text": "День уже благословенний, знайдіть у ньому спокій.",
+        "author": null
+      },
+      {
+        "text": "Від помилки до помилки відкривається вся правда.",
+        "author": "Зигмунд Фрейд"
+      },
+      {
+        "text": "Добре зроблено краще, ніж добре сказано.",
+        "author": "Бенджамін Франклін"
+      },
+      {
+        "text": "Відкусіть більше, ніж можете розжувати, а потім розжуйте.",
+        "author": "Елла Вільямс"
+      },
+      {
+        "text": "Працюйте над власним порятунком. Не залежати від інших.",
+        "author": "Будда"
+      },
+      {
+        "text": "Один сьогодні вартий двох завтра.",
+        "author": "Бенджамін Франклін"
+      }
+    ]
+  ,
+  "ru": [
+    {
+        "text": "Гений — это один процент вдохновения и девяносто девять процентов пота.",
+        "author": "Томас Эдисон"
+      },
+      {
+        "text": "Вы можете многое заметить, просто наблюдая.",
+        "author": "Йоги Берра"
+      },
+      {
+        "text": "Дом, разделившийся сам в себе, не может устоять.",
+        "author": "Абрахам Линкольн"
+      },
+      {
+        "text": "Трудности возрастают по мере приближения к цели.",
+        "author": "Иоганн Вольфганг фон Гёте"
+      },
+      {
+        "text": "Судьба в ваших руках и больше ни у кого.",
+        "author": "Байрон Пулсифер"
+      },
+      {
+        "text": "Будь вождем, но никогда не господином.",
+        "author": "Лао-цзы"
+      },
+      {
+        "text": "Ничего не происходит, если сначала мы не мечтаем.",
+        "author": "Карл Сэндберг"
+      },
+      {
+        "text": "Хорошее начало полдела откачало.",
+        "author": "Аристотель"
+      },
+      {
+        "text": "Жизнь — это опыт обучения, только если вы учитесь.",
+        "author": "Йоги Берра"
+      },
+      {
+        "text": "Самоуспокоенность губительна для прогресса.",
+        "author": "Маргарет Сангстер"
+      },
+      {
+        "text": "Мир приходит изнутри. Не ищите его снаружи.",
+        "author": "Будда"
+      },
+      {
+        "text": "Что посеешь то пожнешь.",
+        "author": "Байрон Пулсифер"
+      },
+      {
+        "text": "Мы можем научиться любить, только любя.",
+        "author": "Айрис Мердок"
+      },
+      {
+        "text": "Жизнь — это перемены. Рост необязателен. Выбирай с умом.",
+        "author": "Карен Кларк"
+      },
+      {
+        "text": "Вы увидите это, когда поверите в это.",
+        "author": "Уэйн Дайер"
+      },
+      {
+        "text": "Сегодня — это завтра, о котором мы беспокоились вчера.",
+        "author": null
+      },
+      {
+        "text": "Легче увидеть ошибки на чужой бумаге.",
+        "author": null
+      },
+      {
+        "text": "Каждый человек умирает. Не каждый человек живет по-настоящему.",
+        "author": null
+      },
+      {
+        "text": "Ведущие люди идут за ними.",
+        "author": "Лао-цзы"
+      },
+      {
+        "text": "Не имея ничего, он ничего не может потерять.",
+        "author": "Вильям Шекспир"
+      },
+      {
+        "text": "Беда - это только возможность в рабочей одежде.",
+        "author": "Генри Дж. Кайзер"
+      },
+      {
+        "text": "На катящемся камне мох не растет.",
+        "author": "Публилий Сирус"
+      },
+      {
+        "text": "Идеи - отправная точка всех состояний.",
+        "author": "Наполеон Хилл"
+      },
+      {
+        "text": "Все в жизни удача.",
+        "author": "Дональд Трамп"
+      },
+      {
+        "text": "Ничего не делать лучше, чем быть занятым ничегонеделанием.",
+        "author": "Лао-цзы"
+      },
+      {
+        "text": "Доверяй себе. Вы знаете больше, чем вы думаете.",
+        "author": "Бенджамин Спок"
+      },
+      {
+        "text": "Изучай прошлое, если хочешь угадать будущее.",
+        "author": "Конфуций"
+      },
+      {
+        "text": "День уже благословен, найди в нем покой.",
+        "author": null
+      },
+      {
+        "text": "От ошибки к ошибке открываешь всю истину.",
+        "author": "Зигмунд Фрейд"
+      },
+      {
+        "text": "Меньше болтай, больше делай.",
+        "author": "Бенджамин Франклин"
+      },
+      {
+        "text": "Откусите больше, чем сможете прожевать, а затем прожуйте.",
+        "author": "Элла Уильямс"
+      },
+      {
+        "text": "Совершай собственное спасение. Не зависеть от других.",
+        "author": "Будда"
+      },
+      {
+        "text": "Одно сегодня стоит двух завтра.",
+        "author": "Бенджамин Франклин"
+      }
+  ]
+}
